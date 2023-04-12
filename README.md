@@ -1,6 +1,6 @@
 # Tasks
 
-### Task_3_09 (2 semester)
+### *Task_3_09 (2 semester)
 Дана очередь, поддерживающая только две операции – добавление элемента и 
 извлечение элемента (соответственно нет метода, возвращающего кол-во элементов в 
 очереди). В очереди записаны целые числа. Не используя другие структуры данных 
@@ -21,7 +21,7 @@ Hint: the first operation is to put a null value in the queue (we assume that th
 is generalized and the numbers are written as Integer objects), which will be an indicator that the whole 
 the queue has already been processed
 
-### Task_2_27 (2 semester)
+### *Task_2_27 (2 semester)
 Реализовать процедуру случайного перемешивания элементов списка.
 Подсказка: пройти по исходному списку и формировать новый список, где позиция 
 очередного элемента определяется случайным образом (с помощью Random). Сложность 
