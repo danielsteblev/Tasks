@@ -29,4 +29,4 @@ the queue has already been processed
 Implement a procedure for randomly shuffling list items.
 Hint: go through the original list and form a new list, where the position
 of the next element is determined randomly (using Random). The complexity
-of the algorithm will be O(n2).
+of the algorithm will be O(n^2).
