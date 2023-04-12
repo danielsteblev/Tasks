@@ -26,6 +26,7 @@ the queue has already been processed
 Подсказка: пройти по исходному списку и формировать новый список, где позиция 
 очередного элемента определяется случайным образом (с помощью Random). Сложность 
 алгоритма будет O(n^2).
+
 Implement a procedure for randomly shuffling list items.
 Hint: go through the original list and form a new list, where the position
 of the next element is determined randomly (using Random). The complexity
